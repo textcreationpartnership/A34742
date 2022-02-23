@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The country gentleman's notion concerning governments in a letter to his friend at Leeds in Yorkshire.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34742</idno>
+            <idno type="STC">Wing C6532</idno>
+            <idno type="STC">ESTC R171555</idno>
+            <idno type="EEBO-CITATION">12713816</idno>
+            <idno type="OCLC">ocm 12713816</idno>
+            <idno type="VID">66139</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34742)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 66139)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 684:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The country gentleman's notion concerning governments in a letter to his friend at Leeds in Yorkshire.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Eliz. Whitlock ...,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1696?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Political science.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:66139:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 36 -->
+            <head>THE Country Gentleman's Notion Concerning GOVERNMENTS. IN A Letter to his Friend at <hi>Leeds</hi> in <hi>Yorkshire.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Receiv'd yours, and am concern'd at the continuance of your Diſſatisfaction about the Oaths to King <hi>William.</hi> I will not ſay the ſeverity of the Penalties annex'd by the Late Act, to the refuſal of them, ought to influence your Judgment; but for the ſake of your Family; you will do well to take the matter into further Conſideration. Be aſſured, that my Conviction of the Lawfulneſs of theſe Oaths is neither influenc'd by Fear nor Flattery: I hope you know me to be too much an Engliſhman, to believe I have been ſway'd by either; and I know you too well, to
+<pb n="2" facs="tcp:66139:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 37 -->imagine that my Example ſhou'd govern or prevail upon you further, than the Reaſons which I learnt while at <hi>London</hi> (in Converſation with ſeveral Lawyers and others) may have ſome weight with you, if plac'd in a due Light, and Con<g ref="char:EOLhyphen"/>ſider'd with Temper.</p>
+            <p>You muſt not expect a Vindication of the <hi>King's</hi> Title. To endeavour to Juſtifie it, is to ſuppoſe a doubt; which he muſt do, who goes about to argue it. <hi>Soveraigns</hi> Titles are never to be debated, or vindicated, but in the wiſeſt and moſt tender manner imaginable, and it ſhou'd be by Per<g ref="char:EOLhyphen"/>ſons of the greateſt Knowledge, Sagacity and Prudence; and I think never without the Direction and Command, or Expreſs Allowance of Authority. For any Defence of a Title, if not well manag'd, is a Libel upon that Title. And we have had too many of them publiſh'd already, which inſtead of allaying ſcruples, have increas'd their number.</p>
+            <p>It ſuffices me, and ſeveral of my Acquaintance, in order to our ſatisfaction, to reaſon thus: That Man is a ſociable Creature; that a ſingle Perſon could never be happy <hi>with<g ref="char:EOLhyphen"/>out</hi> the Converſation and Aſſiſtance of Others; nor <hi>with</hi> it, if all his Acquaintance were Miſerable: That Societies therefore were inſtituted by the Creator for the good of Mankind; and that ſuch Good is intended in reſpect of the <hi>Greater Number;</hi> and conſequently, that as the Good of In<g ref="char:EOLhyphen"/>dividuals, ſo the <hi>Opinion</hi> of 'em too, is involv'd in that of the Majority, as united in one Civil Society. This Ma<g ref="char:EOLhyphen"/>jority in all Aſſemblies, or Numbers of Men together, up<g ref="char:EOLhyphen"/>on
+<pb n="3" facs="tcp:66139:3"/>
+               <!-- PDF PAGE 38 -->all Occaſions doth and muſt conclude the whole: For the whole could never otherwiſe be concluded by any publick Act or Determination, if ſuch Act were not binding to every one, before every one in particular had actually con<g ref="char:EOLhyphen"/>ſented to it. For who ever knew, or can imagine an Ex<g ref="char:EOLhyphen"/>act Agreement of a great Multitude of men in One Opinion. On which account it ſeems neither Wiſe, Mannerly, nor Lawful, to oppoſe, or Contradict the Sentiments of the Community, whereof I am a Member, in things of this nature, wherein the Welfare of the Whole is concern'd.</p>
+            <p>For as every man is preſum'd moſt fond of his own In<g ref="char:EOLhyphen"/>tereſt, ſo the greater number muſt be ſuppos'd to be equally careful of theirs, and by conſequence, that what is done by the Majority is beft for the Whole. 'Tis plain that by our Conſtitution, in all Courts of Juſtice, the Majority gives the Rule; and that Rule obliges the diſſenting Judges to Act, as well as Declare contrary to their own ſeveral Pri<g ref="char:EOLhyphen"/>vate Opinions; and in all Controverſies and Diſputes among Scholars, the Opinion of the greater Number, (knowing and intereſted in the ſubject matter of the Que<g ref="char:EOLhyphen"/>ſtion) is a favourable Argument of the Truth. In all Con<g ref="char:EOLhyphen"/>ſultations of Lawyers or Phyſitians, concerning Health or Property, the Party concern'd in the inquiry takes the Majo<g ref="char:EOLhyphen"/>rity as his ſureſt Guide. What reaſon can be alledged why this Rule ſhould not hold, in all other Civil Matters, of an indifferent Nature, wherein God hath not interpos'd by his expreſs Will?</p>
+            <p>Now if we conſider the principles and the Conſequence of
+<pb n="4" facs="tcp:66139:4"/>
+               <!-- PDF PAGE 39 -->the contrary Notion, I have heard ſome affirm, that it can hardly proceed but from Preſumption, and too great ſelf-ſufficiency, and may bring Miſchief and Confuſion to the Publick, as well as Damage and Ruin to the particular Perſon. How can ſuch an Opinion and Practiſe in a pri<g ref="char:EOLhyphen"/>vate Man (in Contradiction to the greateſt part of the So<g ref="char:EOLhyphen"/>ciety whereof he is a Member) but ſavor of Vanity, as if he had more Wiſdom and Honeſty than all his Neigh<g ref="char:EOLhyphen"/>bours? And can he reaſonably expect to be ſafe in ſuch an Oppoſition to the Majority? And if ſeveral be of his Mind, the publick Peace muſt needs be endanger'd.</p>
+            <p>If Men be Humble and Peaceable, there will be in things of this Nature, a Conſideration of the Opinion of the greater part of the Inhabitants of that Country, in which they are born and live, thereby to ſettle the Rules and Mea<g ref="char:EOLhyphen"/>ſures of their private Conduct. I wou'd feign know, what is the Law and Conſent of Nations, which we all reverence and eſteem, as a Confirmation of the Law of Nature; What is it, but the Opinion and Practiſe of the Majority? 'Twere very eaſie to argue upon this ſubject, from every Topick, by which the Ingenious <hi>Parker</hi> demon<g ref="char:EOLhyphen"/>ſtrates his Laws of Nature; as from Reaſon and Expe<g ref="char:EOLhyphen"/>rience; from the Obſervations of Nature, and the Ne<g ref="char:EOLhyphen"/>ceſſities of Life; the Advantages of Juſtice, and the Com<g ref="char:EOLhyphen"/>forts of Society. Every one of theſe would enforce and illuſtrate this Thought.</p>
+            <p>To ſtrengthen it further, it can't be denied that in caſe of great Numbers in diſtant Places, tho' of one Communi<g ref="char:EOLhyphen"/>ty,
+<pb n="5" facs="tcp:66139:4"/>
+               <!-- PDF PAGE 39 -->the meeting of every Particular Perſon, in order to conſult for the Common Good, is in fact impoſſible. Which Neceſſity doth teach and require the uſe of <hi>Re<g ref="char:EOLhyphen"/>preſentatives:</hi> And Engliſhmen muſt agree, that the manner of Electing them, as hath been the Cuſtom of our Fore-fathers in all Ages, is reaſonable and wiſe, ſo that we are bound in Law and Reaſon, by their De<g ref="char:EOLhyphen"/>clarations, Acts and Agreements, our Conſent being neceſſarily included in theirs, in all Points (as I ſaid) of an indifferent Nature, capable of being Debated and Deter<g ref="char:EOLhyphen"/>min'd by them, concerning which Almighty God hath not Expreſly interpos'd, and declar'd his Will; and we think no man in his wits will pretend that he hath, as to the preciſe manner of Emptying and Filling Thrones, and the ſeveral Methods of Legal Succeſſion.</p>
+            <p>Nor do any of the particular Laws of this Realm pre<g ref="char:EOLhyphen"/>vent or, weaken the force of this Notion. The Acts of Recognition of the Right of ſeveral of the Kings and Queens of this Realm do rather confirm, than contra<g ref="char:EOLhyphen"/>dict it, as is very apparent upon the Reading of 'em. The greateſt and moſt expreſſive of 'em all, and which goes the furtheſt, is the 12 <hi>Car.</hi> 2. <hi>cap.</hi> 30. for the At<g ref="char:EOLhyphen"/>tainder of the <hi>Regicides,</hi> but amounts only to this, that the People of <hi>England,</hi> neither Collectively, nor Repreſentatively ever had, or ought to have any coer<g ref="char:EOLhyphen"/>cive Power over the Perſons of the Kings of this Realm. Now whether this can be reckon'd ſufficient to condemn this Notion of private Men's ſubmitting their Opini<g ref="char:EOLhyphen"/>on
+<pb n="6" facs="tcp:66139:5"/>
+               <!-- PDF PAGE 40 -->and Practiſe to that of the Majority, in reſpect of Oaths and Obedience, may be left to any Man's Judg<g ref="char:EOLhyphen"/>ment: if Nature and Reaſon dictate this as a proper Meaſure whereby to Direct and Govern our Actions, no Law whatſoever can vacate, or annul it. But 'tis to ſuppoſe a Law to be made, which is not alterable by the Authority that made it; and that contradicts the agreed and known Maxime, that Laws in Derogation of the Authority, which makes Laws are Void; this muſt be admitted.</p>
+            <p>Now this being laid down, it appears further that a <hi>Great Prince</hi> of the Royal Family, here preſent with<g ref="char:EOLhyphen"/>in the Realm, upon the departure of the former Re<g ref="char:EOLhyphen"/>gent (whether that Departure were choſen by him, or forc'd upon him, by the Actions of his own Miniſters, or thoſe of his Enemies, is not material to enquire) was enacted and declared KING by the Majority of thoſe Repreſentatives: And ſo confirm'd, and decla<g ref="char:EOLhyphen"/>red again, and again, by the Majority of new Repreſen<g ref="char:EOLhyphen"/>tatives, peaceably, and freely Elected; (which Election by the way implies the Aſſent of every Voter to all the Acts of thoſe Perſons ſo choſen.) Then Oaths of Fide<g ref="char:EOLhyphen"/>lity were ſolemnly taken to this Prince, not only by the Repreſentatives, but by Particulars; by the Majori<g ref="char:EOLhyphen"/>ty of the Nobility, Clergy, Gentry, and Commonal<g ref="char:EOLhyphen"/>ty of the Realm. Then was he aſſerted to be RIGHT<g ref="char:EOLhyphen"/>FUL AND LAWFUL KING, and this not by thoſe Repreſentatives alone, but Voluntarily declar'd
+<pb n="7" facs="tcp:66139:6"/>
+               <!-- PDF PAGE 41 -->ſuch in writing, under the hands of the Majority of the Individuals too, (as the Fact now ſtands) Excep<g ref="char:EOLhyphen"/>ting Women, Children and Servants, who are not pro<g ref="char:EOLhyphen"/>perly <hi>Sui juris.</hi> Now after all this, it ſeems plain, that private Perſons are concluded not only by the Power of the Majority, but by the Law of Reaſon and Nature, as Members of this Community, to pay Al<g ref="char:EOLhyphen"/>legiance to a Soveraign thus Conſtituted by the Con<g ref="char:EOLhyphen"/>ſent of their fellow Iſlanders, even by their whole Country. And are any now to ſcruple or doubt ſuch a Title? No ſurely, this is enough to command mine, and yours, and every Engliſhman's <hi>True Alle<g ref="char:EOLhyphen"/>giance.</hi>
+            </p>
+            <p>And I take it to be a much plainer and firmer Foun<g ref="char:EOLhyphen"/>dation for Obedience, than all the fine-ſpun Schemes of Policy and Government; which ſome pretending Ra<g ref="char:EOLhyphen"/>kers into the Rubbiſh of Antiquity, have ſqueez'd and ſtrain'd, out of old myſterious unintelligible Records; or which by the changeable diſtinctions of ſome <hi>Caſuiſts</hi> have been propos'd for Convenience ſake. This is plain Common ſenſe which every man feels, and falls into upon the firſt hearing. But at the rate, that ſome men diſtinguiſh and refine upon the matter, an honeſt man cannot be made to underſtand whom he ought to Obey, without being oblig'd to underſtand Metaphy<g ref="char:EOLhyphen"/>ſicks into the bargain. Theſe Thoughts, Sir, have ſa<g ref="char:EOLhyphen"/>tisfied me, that I am to conſider my ſelf not meerly as a ſingle Perſon, but as related to the Body of the Nati<g ref="char:EOLhyphen"/>on,
+<pb n="8" facs="tcp:66139:7"/>
+               <!-- PDF PAGE 42 -->as one of Many; and ſo as involv'd, in the Inte<g ref="char:EOLhyphen"/>reſt and Opinion of the Majority, and upon that Ac<g ref="char:EOLhyphen"/>count, as having aſſented to the Acts of that Majority; which I eſteem and reſolve to follow, as my Rule. That you may likewiſe do ſo with a ſatisfied and eaſie mind, is the deſign of this Paper and the Hearty Pray<g ref="char:EOLhyphen"/>er of</p>
+            <closer>
+               <salute>SIR, </salute> 
+               <signed>
+                  <hi>Yours to ſerve you,</hi> &amp;c.</signed>
+               <dateline>
+                  <hi>Nottingham.</hi> 
+                  <date>May 29. 1696.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, <hi>Printed for</hi> Eliz. Whitlock <hi>near</hi> Stationers-Hall.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
